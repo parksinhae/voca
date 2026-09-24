@@ -1,5 +1,5 @@
 import { redirect } from "next/navigation";
 
 export default function CBTPage() {
-  redirect("/cbt.html");
+  redirect("https://raw.githack.com/parksinhae/voca/main/public/cbt.html");
 }
